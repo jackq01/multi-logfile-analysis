@@ -77,7 +77,7 @@ chardet
 ## 运行
 
 ```bash
-python -m app.main_window
+python main.py
 ```
 
 或在自定义入口脚本中实例化 LogAnalyzerApp 并调用 show()。
