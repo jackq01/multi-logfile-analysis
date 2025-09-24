@@ -47,6 +47,9 @@
   - 主列表：Ctrl+D 添加/删除关注、Ctrl+C 复制、Ctrl+/- 调整字号
   - 关注列表：Ctrl+D 删除选中、Delete/Backspace 删除选中
 - 文件来源浅色背景，便于区分
+![alt text](过滤模式.png)
+
+![alt text](高亮模式.png)
 
 ## 环境要求
 
